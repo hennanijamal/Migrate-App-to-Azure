@@ -1,0 +1,2 @@
+az webapp config show --resource-group appsvc_linux_centralus --name udacitechconf --query linuxFxVersion
+gunicorn --bind=0.0.0.0 --timeout 600 --chdir app __init__:app
