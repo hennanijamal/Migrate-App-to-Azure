@@ -64,9 +64,9 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 | Azure Resource | Service Tier | Monthly Cost |
 | ------------ | ------------ | ------------ |
 | *Azure Postgres Database* | Basic  | 431.33 HKD |
-| *Azure Service Bus*   |  Free      | 0 HKD |
-| *App Service Plan*    |  Free   | 0 HKD |
-| *Function App*        |  Free   | 0 HKD |
+| *Azure Service Bus*   |  Basic      | 0.05 HKD |
+| *App Service Plan*    |  Free   | 0.0 HKD |
+| *Function App*        |  Consumption   | 0.0 HKD |
 | ...                   |         |       |
 
 ## Architecture Explanation
